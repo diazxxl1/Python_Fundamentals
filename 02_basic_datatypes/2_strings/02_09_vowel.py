@@ -6,3 +6,5 @@ CHALLENGE: Can you change the script so that it counts the occurrence of each in
            in the string and print a count for each of them?
 
 '''
+user_input(input("Enter any phrase you want: "))
+vowels = user_input.count()

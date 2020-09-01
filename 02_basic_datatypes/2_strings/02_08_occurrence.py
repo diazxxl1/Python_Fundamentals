@@ -1,9 +1,4 @@
-'''
-Write a script that takes a string of words and a letter from the user.
-Find the index of first occurrence of the letter in the string. For example:
-
-String input: hello world
-Letter input: o
-Result: 4
-
-'''
+name  = "Albert Smith"
+first_name = name[:6]
+last_name = "Einstein"
+print(first_name, last_name)
